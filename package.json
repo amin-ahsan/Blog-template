@@ -1,0 +1,24 @@
+{
+  "name": "tutorial",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^2.2.2",
+    "@astrojs/rss": "^2.4.4",
+    "@sanity/astro": "^1.2.1",
+    "@sanity/image-url": "^1.0.2",
+    "astro": "^3.0.5",
+    "astro-portabletext": "^0.9.4",
+    "preact": "^10.17.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sanity": "^3.16.2"
+  }
+}
